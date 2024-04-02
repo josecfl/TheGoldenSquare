@@ -1,0 +1,3 @@
+This is my new learning: The golden square.
+
+Some more GIT learning.
